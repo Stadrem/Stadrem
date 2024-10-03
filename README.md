@@ -11,4 +11,6 @@
 - 🤔 프로그래머적인 마인드 어렵다.
 - 💬 게임 좋아하는 집돌이 3D 디자이너
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStadrem&count_bg=%237D8FEA&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStadrem&count_bg=%237D8FEA&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://stadrem.github.io/PortfolioSite/)](https://stadrem.github.io/PortfolioSite/) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:stadrem@naver.com)](mailto:stadrem@naver.com)
